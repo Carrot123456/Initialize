@@ -7,11 +7,11 @@ The installation include 2 zip files and 1 folder:
 - Initialize_TheMultiverseSerie..zip (it was supposed to be Initialize_TheMultiverseSeries.zip): Contain only the source code and resource like map, font and images.
 - The folder: Contain the exe, download this folder and double click on the exe to launch the game.
 
-I abandoned this game to fix the story (and also the code is also crap, read it and you will know, Im also have no idea how I created this game 1000000 years ago).
+I abandoned this game to fix the story (and also the code is crap, read it and you will know, Im have no idea how I created this game 1000000 years ago).
 
 This game can be used for educational purpose to teach childrens how to make a crappy games.
 
-This was originally made to compile on C4Droid on Android because I am poor and dont have a computer (actually I refused to use my parent's money, so I am basically richer than you students).
+This was originally made to compile on C4Droid on Android because I am poor and dont have a computer (actually I refused to use my parent's money, so I am basically richer than you students because I made my money myself).
 
 The story is now changed and I have lost my interest in games so dont think of asking me to continue this game project (but if you want to continue my project feel free to ask).
 
